@@ -1,0 +1,19 @@
+.section {
+    color: white;
+    background-color: blueviolet; 
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+.green {
+    color: white;
+    background-color: orange;
+    font-style: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+
+a {
+    background-color: fuchsia; !important;
+}
